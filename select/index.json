@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "ROCK THE BOAT",
+  "base_artist": "XG",
+  "createdAt": "2026-02-08T14:28:59.969940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rock the Boat",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/01_Rock_the_Boat_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Rock the Boat",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/02_Rock_the_Boat_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Rock The Boat",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/03_Don't_Rock_The_Boat_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Rock The Boat",
+      "artist": "Bob Sinclar feat. Pitbull, Dragonfly & Fatman Scoop",
+      "has_synced": true,
+      "path": "select/04_Rock_The_Boat_Bob_Sinclar_feat._Pitbull,_Dragonfly_&_Fatman_Scoop.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rock The Boat",
+      "artist": "Bob Sinclar Ft. Pitbull, Dragonfly & Fatman Scoop",
+      "has_synced": true,
+      "path": "select/05_Rock_The_Boat_Bob_Sinclar_Ft._Pitbull,_Dragonfly_&_Fatman_Scoop.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rock the Boat",
+      "artist": "The Hues Corporation",
+      "has_synced": true,
+      "path": "select/06_Rock_the_Boat_The_Hues_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Rock the Boat",
+      "artist": "The Hues Corporation",
+      "has_synced": true,
+      "path": "select/07_Rock_the_Boat_The_Hues_Corporation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rock The Boat",
+      "artist": "Aaliyah",
+      "has_synced": true,
+      "path": "select/08_Rock_The_Boat_Aaliyah.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rock the Boat",
+      "artist": "Hues Corporation",
+      "has_synced": false,
+      "path": "select/09_Rock_the_Boat_Hues_Corporation.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rock the Boat",
+      "artist": "Forrest",
+      "has_synced": false,
+      "path": "select/10_Rock_the_Boat_Forrest.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Rock The Boat",
+      "artist": "The Hues Corporation",
+      "has_synced": true,
+      "path": "select/11_Rock_The_Boat_The_Hues_Corporation.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ROCK THE BOAT",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/pl_01_ROCK_THE_BOAT_XG.txt"
+    }
+  ]
+}
