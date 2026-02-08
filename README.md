@@ -1,0 +1,101 @@
+# XG – ROCK THE BOAT
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Hey boy I like the way you talk
+I like the way you speed dial
+Me on that phone
+I like that XG when I hear that ringtone
+I'm liking everything but it's not enough
+Say boy
+What if I wanna ride
+What if I'm in a mood
+And I need you right now
+What if you're with your crew
+And I needed you to bounce
+Feel like you should
+Kick it on another night ah yea
+Normally I never get this crazy
+My reality is all you lately
+All I'm really trying to say right now is
+Boy you came and
+Rocked the boat
+Rock the boat
+Caught me off the beat like
+Shaking up the streamline
+Rocked the boat
+Knocked me off that wave (wave)
+Boy you came and
+Rocked the boat
+Rock the boat
+Swimming in the deep wide
+Open in the sea I'm
+Off the boat
+Knocked me off that wave (wave)
+Boy you came in
+Hot
+The way you got me hot
+You turned it up a notch
+Sped up a couple knots
+Then I felt the
+Drop
+My heart wouldn't stop
+You got me sweating Okinawa
+In the summertime
+Who would've thought?
+Ok we could take it two ways
+Liyah worked the middle while
+Singing on top of blue waves
+I had to look away but it was too late
+I drank the Kool-Aid
+I really thought that it was Gucci
+Maybe it was bootlegged
+No my mama wouldn't ever let me
+Hypothetically you mine already
+All I'm really trying to say right now is
+Boy you came and
+Rocked the boat
+Rock the boat
+Caught me off the beat like
+Shaking up the streamline
+Rocked the boat
+Knocked me off that wave (wave)
+Boy you came and
+Rocked the boat
+Rock the boat
+Swimming in the deep wide
+Open in the sea I'm
+Off the boat
+Knocked me off that wave (wave)
+Boy you came in
+XO
+You playing that game
+Back to back
+You been calling all day
+Back and forth
+Calling even my friends
+Even on text
+Leaving non sense
+Don't trip boy
+Give me my space
+Obsession was never my thing
+Take your time
+You should steady your pace
+What am I saying?
+Boy you came and
+Rocked the boat
+Rock the boat
+Caught me off the beat like
+Shaking up the streamline
+Rocked the boat
+Knocked me off that wave (wave)
+Boy you came and
+Rocked the boat
+Rock the boat
+Swimming in the deep wide
+Open in the sea I'm
+Off the boat
+Knocked me off that wave (wave)
+Boy you came in
+```
